@@ -1,0 +1,98 @@
+[
+   {
+        lat: -23.2674827,
+        lng: -45.8901812,
+        nome: "PEV Campo dos Alemães",
+        morada1:"Avenida dos Evangélicos, 601",
+        morada2: "Campo dos Alemães",
+        codPostal: "12239-060"
+    },
+    {
+        lat: -23.1767901,
+        lng: -45.8871557,
+        nome: "PEV D.Pedro II",
+        morada1:"R. Dom Pedro II, 37",
+        morada2: "Vila Maria",
+        codPostal: "12209-460"
+    },
+    {
+        lat: -23.2683086,
+        lng: -45.9021721,
+        nome: "PEV Residencial Gazzo",
+        morada1:"Rua Arcilio Moreira da Silva (ao lado do cemitério Colonia Paraíso)",
+        morada2: "Parque Res. Uniao",
+        codPostal: "12236-500"
+    },
+    {
+        lat: -23.246931,
+        lng: -45.913544,
+        nome: "De PEV 31 de Março",
+        morada1:"Rua Guidoval, 100",
+        morada2: "Res. Trinta e Um de Marco,",
+        codPostal: "12237-550"
+    },
+    {
+        lat: -23.2359314,
+        lng: -45.8927894,
+        nome: "PEV Jardim Satélite",
+        morada1:"Rua Estrela Dalva, 135",
+        morada2: "Jardim Satelite",
+        codPostal: "12230-480"
+    },
+    {
+        lat: -23.2735909,
+        lng: -45.8695561,
+        nome: "PEV Interlagos",
+        morada1:"Rua Ubirajara Raimundo de Souza, 21",
+        morada2: "Parque Interlagos",
+        codPostal: "12209-531"
+    },
+    {
+        lat: -23.1420832,
+        lng: -45.7770027,
+        nome: "PEV Galo Branco",
+        morada1:"Avenida Benedito Luiz de Medeiros, 811",
+        morada2: "Galo Branco",
+        codPostal: "12247-580"
+    },
+    {
+        lat: -23.1974869,
+        lng: -45.7818828,
+        nome: "PEV Novo Horizonte",
+        morada1:"Rua dos Topógrafos (esquina com a Avenida Tancredo Neves)",
+        morada2: "Parque Novo Horizonte",
+        codPostal: "12225-751"
+    },
+    {
+        lat: -23.173771,
+        lng: -45.8483822,
+        nome: "PEV Copacabana",
+        morada1:"Rua Charles Diamond (em frente à Praça Joaquim Figueira de Andrade)",
+        morada2: "Vila Tesouro",
+        codPostal: "12221-150"
+    },
+    {
+        lat: -23.1653911,
+        lng: -45.9273503,
+        nome: "PEV Altos de Santana",
+        morada1:"Avenida Alto do Rio Doce, 1075 (ao lado da EMEF Profª Vera Babo de Oliveira)",
+        morada2: "Jardim Altos de Santana",
+        codPostal: "12214-010"
+    },
+    {
+        lat: -23.1607187,
+        lng: -45.8914831,
+        nome: "PEV Vila Jaci",
+        morada1:"Esquina com a Rua Xavantes e João Batista Lopes",
+        morada2: "Vila Cristina",
+        codPostal: "12211-310"
+    },
+    {
+        lat: -23.187408,
+        lng: -45.869479,
+        nome:"PEV Martins Pereira (Vila Progresso)",
+        morada1:"Rua Ana Gonçalves da Cunha (ao lado do Estádio)",
+        morada2: "Monte Castelo",
+        codPostal: "12215-390"
+    }
+];

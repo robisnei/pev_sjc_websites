@@ -1,0 +1,67 @@
+http://www.urbam.com.br/sitenovo/servicos/limpeza-publica/coleta-de-pilhas-e-baterias.aspx
+
+
+
+Base da Polícia Militar(Conjunto Residencial 31 de Março)(3º Distrito Policial):  
+-23.246463, -45.915111
+
+Batalhão da Polícia Militar - Jardim Oswaldo Cruz : -23.195435, -45.874286
+
+
+Biblioteca Pública Cassiano Ricardo : 	-23.181442, -45.887028
+
+Biblioteca Hélio Pinto Ferreira - Jardim das Indústrias : -23.222801, -45.919148
+
+
+Câmara Municipal de São José dos Campos  : -23.185841, -45.878638
+
+Casa do Idoso- Centro :	-23.192297, -45.887505
+
+Centro Comunitário do Alto da Ponte :-23.152779, -45.898606
+
+
+Centro Poliesportivo Altos de Santana :-23.168820, -45.911333
+
+
+EMEF Lúcia Pereira Rodrigues: -23.248947, -45.833589
+
+EMEI Padre João Marcondes Guimarães (Bosque dos Eucaliptos) :-23.258857, -45.891824
+
+
+Espaço Cultural Chico Triste - Vila Tesouro :
+
+Espaço Cultural Eugênia da Silva - Novo Horizonte:
+
+Espaço Cultural Flavio Craveiro - D. Pedro I :
+
+Espaço Cultural Jardim da Granja :
+
+Hospital Clínica Sul :
+
+Hospital Materno Infantil Antoninho da Rocha Marmo :
+
+Mercado Municipal - Centro :
+
+Museu do Folclore - Parque da Cidade :
+
+Núcleo de Avaliação e Controle - Rua Sebastião Húmel :
+
+Paço Municipal : 
+
+Parque da Cidade :
+
+Parque Santos Dumont : 
+
+Parque Vicentina Aranha : 
+
+SAVIVER - Sociedade Amigos da Cidade Vista Verde :
+
+Sede da Urbam :
+
+Sesi - Bosque dos Eucaliptos :
+
+Subprefeitura de Eugênio de Melo :
+
+UBS Campos de São José : 
+
+Escola Marechal do Ar Casimiro Montenegro Filho : 
